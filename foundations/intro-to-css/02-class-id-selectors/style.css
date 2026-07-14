@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+  background-color: #ffa7a7;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id_one {
+  color: blue;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 26px;
+}
+
+#id_two {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
