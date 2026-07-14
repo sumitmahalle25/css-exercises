@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.yes_click,
+.no_click {
+  font-size: 28px;
+  font-family:
+    Helvetica "Times New Roman",
+    sans-serif;
+}
+
+.yes_click {
+  background-color: black;
+  color: white;
+}
+
+.no_click {
+  background-color: yellow;
+}
